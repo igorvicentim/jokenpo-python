@@ -1,0 +1,3 @@
+Links úteis:
+https://www.jetbrains.com/pt-br/pycharm/
+Pycharm é uma IDE para programar em Python 3 e assim conseguir executar seus códigos
